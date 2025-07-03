@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Bridging Innovation and Business Value
+email: a.gigante@gmail.com
+description: "Andrea Gigante is a Principal Product Manager who transforms complex innovation, especially in AI and data visualization, into measurable business value while ensuring secure and user-centric solutions."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: agigante80
 
 # Build settings
 markdown: kramdown
