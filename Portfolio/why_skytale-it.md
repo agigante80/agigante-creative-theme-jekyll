@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Why skytale.it?"
+description: "Discover the unique approach of skytale.it in delivering IT solutions that prioritize security, innovation, and client satisfaction."
+---
+
 ### Why skytale.it
 
 I have always had a deep **passion for security and encryption**. From a young age, I enjoyed creating and deciphering secret messages with friends, which naturally led me to explore the foundational concepts of encryption as I grew up with computers.
